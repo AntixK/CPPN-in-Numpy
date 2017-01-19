@@ -1,4 +1,4 @@
-# CPPN-in-xczxczxczxczzxc
+# CPPN-in-Numpy
 
 The supplementary code for Fossbytes blog on generating art using CPPNs.
 
